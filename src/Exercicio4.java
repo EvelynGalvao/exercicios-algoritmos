@@ -33,7 +33,3 @@ public class Exercicio4 {
     }
 }
 
-
-// MAIORVALOR: a função recebe como parâmetro um array de inteiros e retorna o maior número existente no array.
-// TOTALIGUAIS: a função recebe como parâmetro um array de inteiros e retorna o total números iguais existentes em ambos
-//os arrays.
