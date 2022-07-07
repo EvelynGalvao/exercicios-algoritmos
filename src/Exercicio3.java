@@ -9,7 +9,7 @@ public class Exercicio3 {
         System.out.println("Digite seu nome:");
         nome = read.next();
 
-        for ( int i = 0; i<=10; i++){
+        for( int i = 0; i<=10; i++){
             System.out.println(nome);
         }
     }
