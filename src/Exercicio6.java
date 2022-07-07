@@ -34,10 +34,10 @@ public class Exercicio6 {
 
         int totalPares = 0;
 
-        for (int i = 0; i < lista1.size(); i++) {
+        for (int num : lista1) {
 
-            for (int j = 0; j < lista2.size(); j++) {
-                if (lista1.get(i) == lista2.get(j)){
+            for (int num2 : lista2) {
+                if (num == num2){
                     totalPares++;
                 }
             }
