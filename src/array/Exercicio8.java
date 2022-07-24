@@ -1,3 +1,5 @@
+package array;
+
 import kotlin.math.UMathKt;
 
 import java.util.Scanner;
@@ -17,10 +19,11 @@ public class Exercicio8 {
         System.out.println("Digite um expoente inteiro");
         expoente = Integer.parseInt(read.next());
 
-        for (int i = 1; i < expoente; i++){
-            potencia = base * base;
+        potencia = base;
 
-            base = potencia;
+        for (int i = 1; i < expoente; i++){
+            potencia = potencia * base;
+
 
         }
         System.out.println(potencia);

@@ -1,3 +1,5 @@
+package array;
+
 public class Exercicio7 {
 
             //* Fizz Buzz: Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com as seguintes exceções:
@@ -9,7 +11,7 @@ public class Exercicio7 {
 
 
         for(int i = 1; i <= 30; i++) {
-            if(i % 3 ==0 && i % 5 ==0){
+            if(i % 3 == 0 && i % 5 == 0){
                 System.out.println("FizzBuzz");
         } else if (i % 3 == 0){
                 System.out.println("Fizz");
