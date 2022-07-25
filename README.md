@@ -1,1 +1,5 @@
-repositório de exercícios e atividades em java.
+EXERCÍCIOS EM JAVA
+
+* laços de repetição;
+* arrays;
+* algoritmos.
