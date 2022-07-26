@@ -2,7 +2,7 @@ package dio.exercicios;
 
 import java.util.Scanner;
 
-public class ArrayParImpar {
+public class ParImpar {
     // fazer um programa que peça N números inteiros,
     // calcule e mostre a quantidade de números pares e ímpares.
 

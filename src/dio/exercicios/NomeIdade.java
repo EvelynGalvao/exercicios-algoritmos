@@ -2,7 +2,7 @@ package dio.exercicios;
 
 import java.util.Scanner;
 
-public class ArrayNomeIdade {
+public class NomeIdade {
 
 // faça um programa que leia conjuntos de dois valores,
 // nome e idade do aluno,parar o programa quando o nome for.

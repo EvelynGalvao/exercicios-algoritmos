@@ -2,7 +2,7 @@ package dio.exercicios;
 
 import java.util.Scanner;
 
-public class ArrayTabuada {
+public class Tabuada {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package dio.exercicios;
 
 import java.util.Scanner;
 
-public class ArrayMaiorMedia {
+public class MaiorMedia {
 // ler 5 números e informe o maior número e a média desses números.
 
     public static void main(String[] args) {

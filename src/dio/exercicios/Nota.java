@@ -2,7 +2,7 @@ package dio.exercicios;
 
 import java.util.Scanner;
 
-public class ArrayNota {
+public class Nota {
 // programa que peça nota entre os valores de 0 e 10;
 //mostrar mensagem caso a nota seja inválida;
 

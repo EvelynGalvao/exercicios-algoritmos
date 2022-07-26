@@ -2,7 +2,7 @@ package dio.exercicios;
 
 import java.util.Scanner;
 
-public class ArrayFatorial {
+public class Fatorial {
 // criar um programa que calcule o fatorial de um número inteiro fornecido pelo usuário.
 
 
